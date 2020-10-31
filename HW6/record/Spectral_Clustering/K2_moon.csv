@@ -1,0 +1,4 @@
+Method,K,gamma,time_cost
+ClusterMedian,2,250,5.753479242324829
+RandomDataPoint,2,250,5.821412801742554
+Random,2,250,6.123074054718018
